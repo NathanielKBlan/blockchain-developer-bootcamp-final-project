@@ -28,7 +28,7 @@ Yes, LeadChain is meant to be used as an "enterprise" application as multiple le
 in the organization and we want them to all be able to record the leads they have at hand, which they've undertaken, and what
 the outcomes were.
 
-### Can you use an always online trusted thrid party
+### Can you use an always online trusted third party
 No, in this case it's best not to trust third parties with tracking your leads or determining which to undertake. No one will care
 as much as you about YOUR leads!
 
