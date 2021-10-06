@@ -15,8 +15,10 @@ and provides robustness, security, and recommendations when it comes to leads.
 # Need for a Blockchain Solution
 Before I go into what LeedChain is, I want to explain why a blockchain solution is an optimal one here.
 It really comes down to a simple checklist, such as this one:
-[Is a Blockchain Necessary?](https://github.com/NathanielKBlan/blockchain-developer-bootcamp-final-project/blob/main/readme-resources/poc/blockchain-checklist.png?raw=true)
+[Is a Blockchain Necessary?](https://github.com/NathanielKBlan/blockchain-developer-bootcamp-final-project/blob/main/readme-resources/poc/blockchain-checklist.png?raw=true) [^1]
 
 # The Basics of LeadChain
 
 
+
+[^1]: Wust, K., &amp; Gervais, A. (2018). Do you need a blockchain? 2018 Crypto Valley Conference on Blockchain Technology (CVCBT). https://doi.org/10.1109/cvcbt.2018.00011 
