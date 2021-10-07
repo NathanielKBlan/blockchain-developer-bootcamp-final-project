@@ -44,8 +44,5 @@ No, nodes running the verification process on the blockchain network must belong
 ### End result
 The solution (LeadChain) requires a private permissioned blockchain.
 
-## The Basics of LeadChain
-
-
 
 [^1]: Wust, K., &amp; Gervais, A. (2018). Do you need a blockchain? 2018 Crypto Valley Conference on Blockchain Technology (CVCBT). https://doi.org/10.1109/cvcbt.2018.00011 
